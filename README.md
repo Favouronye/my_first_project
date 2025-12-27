@@ -2,7 +2,8 @@
 learning GitHub step by step
 
 This project analyzes a divorce dataset to dentify key factors influencing marital stability and  divorce outcome. The  analysis focuses on communication quality, conflict frequency, emotional connection, social support, and shared activites to uncover meaningful patterns related to divorce risk.
-Key Performance Indicator (KPIs)
+Key Performance Indicator (KPIs):
+
 1. Divorce Rate(%) -- Percentage of records classified as divorced.
 2. Average Conflict Score -- Mean conflict level among couples
 3. Average Communication Score -- Overall communication effectiveness
@@ -10,8 +11,9 @@ Key Performance Indicator (KPIs)
 5. Shared Activities Count -- Averge number of shared hobbies or activeties.
 6. Emotional Connection Score -- Strength of emotional bonding.
 
-7. 
-   Key Insights
+  
+   Key Insights:
+   
    1.High conflict levels are strongly linked to increase divorce risk
    2.Poor communication significantly contributes to marital instability
    3.Strong social support and shared activities reduce the likelihood of divorce
