@@ -16,8 +16,13 @@ Key Performance Indicator (KPIs):
    Key Insights:
    
    1.High conflict levels are strongly linked to increase divorce risk
+   
    2.Poor communication significantly contributes to marital instability
+   
    3.Strong social support and shared activities reduce the likelihood of divorce
+   
    4.Emotional connection plays a critical role in marital stability
+   
    Tools Used:
+   
    Microsoft Excel(data cleaning, analysis, KPIs, and visualization)
