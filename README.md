@@ -1,7 +1,7 @@
 # my_first_project
 learning GitHub step by step
 
-This project analyzes a divorce dataset to dentify key factors influencing marital stability and  divorce outcome. The  analysis focuses on communication quality, conflict frequency, emotional connection, social support, and shared activites to uncover meaningful patterns related to divorce risk.
+This project analyzes a divorce dataset to identify key factors influencing marital stability and  divorce outcome. The  analysis focuses on communication quality, conflict frequency, emotional connection, social support, and shared activities to uncover meaningful patterns related to divorce risk.
 
 Key Performance Indicator (KPIs):
 
