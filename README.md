@@ -9,6 +9,8 @@ Key Performance Indicator (KPIs)
 4. Social Support Index -- Level of emotional and social support
 5. Shared Activities Count -- Averge number of shared hobbies or activeties.
 6. Emotional Connection Score -- Strength of emotional bonding.
+
+7. 
    Key Insights
    1.High conflict levels are strongly linked to increase divorce risk
    2.Poor communication significantly contributes to marital instability
